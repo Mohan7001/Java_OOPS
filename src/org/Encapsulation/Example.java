@@ -42,7 +42,7 @@ public class Example {
 
 	public static void main(String[] args) {
 		Example example = new Example();
-		example.setAge(12);
+		example.setAge(13);
 		example.setName("Ram");
 		System.out.println(example.getName());
 		System.out.println(example.getAge());
